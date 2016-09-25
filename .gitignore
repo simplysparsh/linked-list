@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# Mac Finder files
+/.DS_Store
+
+# CLion config files
+/.idea
+
+CMakeLists.txt
